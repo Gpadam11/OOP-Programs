@@ -1,0 +1,3 @@
+1. WAP using C++ that uses dynamic constructor to allocate memory to an array of integer. count the no. of odd and even elements given in an array. 
+2. Create a class which stores the x and y coordinates of a point. Write a function to find distance between two points, initialize the objects using parameterized and copy constructor. uses default arguments also. 
+3. WAP to demonstrate the order of execution of order of execution of constructors and destructors of a class.

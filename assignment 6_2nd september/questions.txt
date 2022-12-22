@@ -1,0 +1,5 @@
+1. WAP to swap private members of two class[The class have no relation with each other].
+2. Create two classes which stores distance in feet, inches and meter, centimeter format respectively. Write a function which compares distance in object of these classes and display the larger one.
+3. Create a class which stores time in hh:mm:ss format. Include all the constructors. The parameterized constructor should initialize the minute value to zero, if its not provided.
+4. Create a class which stores a string and its length as data members. Include all the constructors. Include a member function to join two strings and display the concatenated string.
+5. WAP to calculate simple interest of given principal amount. (take rate of interest as default argument) 

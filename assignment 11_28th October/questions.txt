@@ -1,0 +1,21 @@
+ASSIGNMENT 11
+
+1.Create a class shape. Derive three classes from it; Circle, Square and Triangle. Find area of each shape and display it, using virtual function. 
+
+2.Create a class which stores employee name, id and salary Derive two classes from ‘Employee’ class: ‘Regular’ and ‘Part-Time’. The ‘Regular’ class stores DA, HRA and basic salary. The ‘Part-Time’ class stores the number of hours and pay per hour. Calculate the salary of a regular employee and a par-time employee, using virtual function.
+
+3.Create a class which stores account number, customer name and balance. Derive two classes from ‘Account’ class: ‘Savings’ and ‘Current’. The ‘Savings’ class stores minimum balance. The ‘Current’ class stores the over-due amount. Include member functions in the appropriate class for 
+                            -deposit money 
+                            -withdraw [For saving account minimum balance should be checked.] [For current    account overdue amount should be calculated.] 
+                           -display balance 
+Display data from each class using virtual function. 
+
+4.WAP to demonstrate use of pure virtual function and abstract base class. 
+
+5.WAP to add two objects of distance class. Overload the operator ‘>’ to compare two objects and return the object with larger time value and display it. Overload the ‘==’ operator to compare and display whether two given objects contain same distance value. 
+
+6.WAP to add two objects of time class. Overload the operator ‘==’ to compare two objects and display whether they are equal or not. 
+
+7.WAP to create a class Time. Convert time (hh:mm:ss) into seconds (integer value). [Class to Basic]
+
+8.WAP to create a class distance having data members km, meter, cm. User enters the distance in centimeters. Convert the distance into km:meter:cm. [Basic to Class]

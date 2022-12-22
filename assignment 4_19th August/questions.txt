@@ -1,0 +1,4 @@
+1. WAP to swap two members of a class using call by value.
+2. Create a class which stores name, author, and price of a book. Store information for n number of books.
+   Display information of all the books in a given price range using function.
+3. WAP to find area of a circle, rectangle, and triangle using function overloading.

@@ -1,0 +1,7 @@
+	1. Write a c++ prg to print your address using endl statement.
+	2. Write a prg to perform addition, subtraction and multiplication of two integers and display the result.
+	3. WAP to convert temp from centegrate to farenheit scale.
+	4. WAP to calculate area of a triangle whose three sides are given.
+	5. WAP to find avg marks of 5 subs of a student and find the percentage assuming full marks of each subject is 100.
+	6. WAP to convert given paisa into its equivalent rupee and paisa
+	7. WAP to convert given second into its equivalent hour, min and sec
